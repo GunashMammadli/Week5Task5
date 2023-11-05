@@ -1,0 +1,14 @@
+C:\Users\gunas\source\repos\Practices\Week5Task4\Week5Task4\obj\Debug\net6.0\Week5Task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gunas\source\repos\Practices\Week5Task4\Week5Task4\obj\Debug\net6.0\Week5Task4.AssemblyInfoInputs.cache
+C:\Users\gunas\source\repos\Practices\Week5Task4\Week5Task4\obj\Debug\net6.0\Week5Task4.AssemblyInfo.cs
+C:\Users\gunas\source\repos\Practices\Week5Task4\Week5Task4\obj\Debug\net6.0\Week5Task4.csproj.CoreCompileInputs.cache
+C:\Users\gunas\source\repos\Practices\Week5Task4\Week5Task4\bin\Debug\net6.0\Week5Task4.exe
+C:\Users\gunas\source\repos\Practices\Week5Task4\Week5Task4\bin\Debug\net6.0\Week5Task4.deps.json
+C:\Users\gunas\source\repos\Practices\Week5Task4\Week5Task4\bin\Debug\net6.0\Week5Task4.runtimeconfig.json
+C:\Users\gunas\source\repos\Practices\Week5Task4\Week5Task4\bin\Debug\net6.0\Week5Task4.dll
+C:\Users\gunas\source\repos\Practices\Week5Task4\Week5Task4\bin\Debug\net6.0\Week5Task4.pdb
+C:\Users\gunas\source\repos\Practices\Week5Task4\Week5Task4\obj\Debug\net6.0\Week5Task4.dll
+C:\Users\gunas\source\repos\Practices\Week5Task4\Week5Task4\obj\Debug\net6.0\refint\Week5Task4.dll
+C:\Users\gunas\source\repos\Practices\Week5Task4\Week5Task4\obj\Debug\net6.0\Week5Task4.pdb
+C:\Users\gunas\source\repos\Practices\Week5Task4\Week5Task4\obj\Debug\net6.0\Week5Task4.genruntimeconfig.cache
+C:\Users\gunas\source\repos\Practices\Week5Task4\Week5Task4\obj\Debug\net6.0\ref\Week5Task4.dll
